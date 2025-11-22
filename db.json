@@ -1,0 +1,139 @@
+{
+  "users": [
+    {
+      "email": "ajuriimam@gmail.com",
+      "password": "$2a$10$L6a09tHYvhgvWWBM2KaaMe8eeGBqW6ItzoQfXBvWRsK1O1qP7erdS",
+      "firstName": "Abdullah",
+      "lastName": "Hani",
+      "id": 1
+    },
+    {
+      "email": "gana@gmail.com",
+      "password": "$2a$10$5bBnE70nt8eihYuqV7f95.hTYqpnK7tcpr55WPdNEvEZD0g6rAzdG",
+      "firstName": "Gana",
+      "lastName": "Adel",
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "men",
+      "prefix": "men",
+      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/cfb357649428__hp-w12-22032022-h_m-men.jpg"
+    },
+    {
+      "id": 2,
+      "title": "women",
+      "prefix": "women",
+      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/30d354267a09b__hp-w12-22032022-h_m-women_dresses.jpg"
+    },
+    {
+      "id": 3,
+      "title": "kids",
+      "prefix": "kids",
+      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/37d243d334c63__hp-w12-22032022-h_m-kids1.jpg"
+    },
+    {
+      "id": 4,
+      "title": "baby",
+      "prefix": "baby",
+      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/28948d47ae6e8__h_m-w39-28092022-4066c-1x1.jpg"
+    },
+    {
+      "id": 5,
+      "title": "sport",
+      "prefix": "sport",
+      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/1dda9ae79a671__h_m-w40-06102022-7416b-1x1.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Regular Fit Jersey top",
+      "price": 249,
+      "cat_prefix": "men",
+      "img": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:93f07333-9d97-423c-8083-8be7f7b742d0/as/EID-70ef78f6339dec7257635667ec97a6703b4d1359.jpg?width=450&height=675&preferwebp=true",
+      "max": 2
+    },
+    {
+      "id": 2,
+      "title": "Regular Fit Jersey top",
+      "price": 229,
+      "cat_prefix": "men",
+      "img": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:cf9b2a1e-b7cc-4447-aa6a-c9c6882a5402/as/EID-3cdeecc7e6cdd073361cacea927b4392d09ba4ea.jpg?width=450&height=675&preferwebp=true",
+      "max": 3
+    },
+    {
+      "id": 3,
+      "title": "Cotton polo shirt",
+      "price": 200,
+      "cat_prefix": "men",
+      "img": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:9f660133-3497-480e-a693-24e87745e856/as/EID-414c805bab93a20c92362f7a1c20555cb933e82e.jpg?width=450&height=675&preferwebp=true",
+      "max": 2
+    },
+    {
+      "id": 4,
+      "title": "Cotton t-shirt",
+      "price": 100,
+      "cat_prefix": "women",
+      "img": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:2060ea1c-4dfc-4661-b9f4-fa2294fa0c04/as/EID-1a3d1c9bff6bab7c9dccbe1888caec91f8353f39.jpg?width=450&height=675&preferwebp=true",
+      "max": 3
+    },
+    {
+      "id": 5,
+      "title": "Sweatshirt shorts",
+      "price": 300,
+      "cat_prefix": "women",
+      "img": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:cae64814-1665-408f-a206-c675d8be7033/as/EID-21905b23d5a996b8e541569d1adc687222917b91.jpg?width=450&height=675&preferwebp=true",
+      "max": 3
+    },
+    {
+      "id": 6,
+      "title": "Velour top",
+      "price": 300,
+      "cat_prefix": "kids",
+      "img": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:4c06032e-f7b8-478a-905c-1bcc07b999e4/as/EID-83ee0099019cd1c32169ce972a916363444bf222.jpg?width=450&height=675&preferwebp=true",
+      "max": 4
+    },
+    {
+      "id": 9,
+      "title": "Pile all-in-one suit with ears",
+      "price": 500,
+      "cat_prefix": "baby",
+      "img": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:4feb1486-f887-450f-a967-9b1475cbbe41/as/EID-27ff9274781c1a2f067c5bcec03408b2c5084fe1.jpg?width=450&height=675&preferwebp=true",
+      "max": 3
+    },
+    {
+      "id": 17,
+      "title": "Regular Fit football shirt",
+      "price": 449,
+      "cat_prefix": "sport",
+      "img": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:bd25f65f-b451-45ce-bcd4-d8cad09653e1/as/EID-012545dc143534317491d6416077c8505b70c700.jpg?width=450&height=675&preferwebp=true",
+      "max": 4
+    }
+  ],
+  "wishlist": [
+    {
+      "userId": "1",
+      "productId": 1,
+      "id": 7
+    }
+  ],
+  "orders": [
+    {
+      "userId": 1,
+      "items": [
+        {
+          "id": 5,
+          "title": "Sweatshirt shorts",
+          "price": 300,
+          "img": "https://media.alshaya.com/adobe/assets/urn:aaid:aem:cae64814-1665-408f-a206-c675d8be7033/as/EID-21905b23d5a996b8e541569d1adc687222917b91.jpg?width=450&height=675&preferwebp=true",
+          "quantity": 3
+        }
+      ],
+      "subtotal": 900,
+      "id": 1
+    }
+  ]
+}
